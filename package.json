@@ -1,0 +1,16 @@
+{
+  "name": "p",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "webpack": "^4.41.4"
+  }
+}
